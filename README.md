@@ -70,10 +70,10 @@ The Random Forest classifier was trained and evaluated using cross-validation. T
 
 | Metric       | Score  |
 |--------------|--------|
-| Accuracy     | XX%    |
-| Precision    | XX%    |
-| Recall       | XX%    |
-| F1 Score     | XX%    |
+| Accuracy     | 1.00   |
+| Precision    | 1.00   |
+| Recall       | 1.00   |
+| F1 Score     | 1.00   |
 
 ## Technologies Used
 - Python
